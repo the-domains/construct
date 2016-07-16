@@ -1,0 +1,28 @@
+name: Construct
+favicon: null
+layout_spectrum: 0.07297898782417178
+typography_spectrum: 0.855940674431622
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3751086082775146
+  lightness: 0.411296081263572
+  saturation: 0.5789747543167323
+  rhythmicContrast: 0.838279414921999
+purpose: []
